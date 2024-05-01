@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Run the script to update the modified date
+./update_modified_date.sh newRead.md
+
+# Add the modified Markdown file to the staging area
+
