@@ -16,12 +16,14 @@
 For specific information about launching Galyleo, please refer to [this GitHub repository](https://github.com/mkandes/galyleo).
 
 ## Environment Modules:
-By using <mark>--env-modules</mark>
+By using <span style="color:gray">--env-modules</span>,we can load any software that is installed in Expanse.
+  - CPU:
+   <span style="color:gray">--env-modules cpu/0.17.3b,anaconda3/2021.05</span>
 Boring Python Notebooks, need to install 'pyinputplus' and 'pyperclip' as Python3 does not include the follwing modules.
 
 ## Install Package: 
  * pyinputplus
-  * pyperclip
+ * pyperclip
 
 # Launch galyleo 
   1) Expanse :
