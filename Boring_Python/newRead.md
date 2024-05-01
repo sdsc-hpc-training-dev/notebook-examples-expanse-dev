@@ -1,14 +1,26 @@
-# Date (last updated): Feb 2024
+# SDSC Expanse Notebook: Boring_Python
 
-# Run CPU/GPU
-Last modified: 2024-05-01 10:00:12
-# SDSC HPC User Training Notebook Catalog: Boring Python
+## Import Module:
+- pathlib
+- os 
+- pyinputplus
+- pyip
+- pyperclip
+- re
+- sys
+- pprint 
+- random
+- copy
 
-# Import Module:
-  * Path/os/pyinputplus/pyip/pyperclip/re/sys/pprint/random/copy
- 
-# Install Package: 
-  * pyinputplus
+## Launch Galyleo:
+For specific information about launching Galyleo, please refer to [this GitHub repository](https://github.com/mkandes/galyleo).
+
+## Environment Modules:
+By using <mark>--env-modules</mark>
+Boring Python Notebooks, need to install 'pyinputplus' and 'pyperclip' as Python3 does not include the follwing modules.
+
+## Install Package: 
+ * pyinputplus
   * pyperclip
 
 # Launch galyleo 
