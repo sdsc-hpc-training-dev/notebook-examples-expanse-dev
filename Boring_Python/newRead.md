@@ -16,7 +16,7 @@
 For specific information about launching Galyleo, please refer to [this GitHub repository](https://github.com/mkandes/galyleo).
 
 ## Environment Modules:
-By using  <span style="color:gray">Your text here</span>
+By using  <span style="color:white">Your text here</span>
 
 Boring Python Notebooks, need to install 'pyinputplus' and 'pyperclip' as Python3 does not include the follwing modules.
 
