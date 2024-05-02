@@ -1,4 +1,7 @@
 # SDSC Expanse Notebook: Boring_Python
+This readme files led Expanse users to run Borying_Python notebooks in Expanse.
+**Table of Content**
+- [Import Module](## Launch Galyleo)
 ## Import Module:
 - pathlib
 - os 
@@ -11,18 +14,22 @@
 - random
 - copy
 
-## Launch Galyleo:
+## Launch Galyleo
 For specific information about launching Galyleo, please refer to [this GitHub repository](https://github.com/mkandes/galyleo).
 
-## Environment Modules:
+## Environment Modules
 By utilizing `--env-modules`, we can load any software installed in Expanse. 
 For instance, executing this command line will load CPU modules and Anaconda3 within the Jupyter session.
   - CPU:
 `--env-modules cpu/0.17.3b,anaconda3`
-- GPU:
-This is the following command.
 ```
 galyleo launch --account abc123 --partition shared --cpus 2 --memory 4 --time-limit 00:30:00 --env-modules cpu/0.17.3b,anaconda3/2021.05
+```
+Also this command line loads GPU modules and Anaconda3 in the Jupyter session to run in a GPU environment.
+ - GPU:
+`--env-modules  gpu/0.17.3b,anaconda3/2021.05`
+```
+galyleo launch --account abc123 —partition gpu-shared --cpus 10 --memory 92 --gpus 1 --time-limit 00:30:00  --env-modules  gpu/0.17.3b,anaconda3/2021.05 --bind /oasis,/scratch --nv
 ```
 ## Install Modules
 To run Boring Python Notebooks you'll need to install 'pyinputplus' and 'pyperclip', as Python3 doesn't include these modules by default.
@@ -31,7 +38,7 @@ To run Boring Python Notebooks you'll need to install 'pyinputplus' and 'pypercl
 
 ##Location 
 
-Boring_Python
+Boring_Python\
 ├── [boring_python_chapter_1.ipynb](./boring_python_chapter_1.ipynb)\
 ├── [boring_python_chapter_2.ipynb](./boring_python_chapter_2.ipynb)\
 ├── [boring_python_chapter_3.ipynb](./boring_python_chapter_3.ipynb)\
