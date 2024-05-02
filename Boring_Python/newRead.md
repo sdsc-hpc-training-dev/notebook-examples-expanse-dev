@@ -1,7 +1,8 @@
 # SDSC Expanse Notebook: Boring_Python
-This readme files led Expanse users to run Borying_Python notebooks in Expanse.
+This README file provides instructions for Expanse users to run Borying_Python notebooks in the Expanse.\
 **Table of Content**
-- [Import Module](## Launch Galyleo)
+- [Import Module](##Launch-Galyleo)
+- [Import Module](##Launch Galyleo)
 ## Import Module:
 - pathlib
 - os 
@@ -36,7 +37,7 @@ To run Boring Python Notebooks you'll need to install 'pyinputplus' and 'pypercl
  * pyinputplus
  * pyperclip
 
-##Location 
+## Location 
 
 Boring_Python\
 ├── [boring_python_chapter_1.ipynb](./boring_python_chapter_1.ipynb)\
@@ -50,7 +51,7 @@ Boring_Python\
 ├── [boring_python_chapter_9.ipynb](./boring_python_chapter_9.ipynb)\
 ├── README.md
 
-##Table of Contents
+## Table of Contents
 | Chapter   | Package Dependencies  | Keywords                                | Short Description |
 | --------- | --------------------  | --------                                       | ----------------- |
 | Chapter 1: Python Basics   | N/A                   | basic, data types, math, operator              | This notebook begins with running expressions into the interactive shell, python math operations, and variable types. It also includes basic string functions and concatenation. |
