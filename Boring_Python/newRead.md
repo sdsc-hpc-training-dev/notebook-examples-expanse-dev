@@ -1,8 +1,13 @@
 # SDSC Expanse Notebook: Boring_Python
 This README file provides instructions for Expanse users to run Borying_Python notebooks in the Expanse.\
-**Table of Content**
-- [Import Module](##Launch-Galyleo)
-- [Import Module](##Launch Galyleo)
+***Table of Content***
+- [Launch Galyleo](##Launch-Galyleo)
+- [Environment Modules](##Environment-Modules)
+- [Install Modules](##Install-Modules)
+- [Location](##Location)
+- [Table of Contents](##Table-of-Contents)
+-[Sources](##Sources)
+
 ## Import Module:
 - pathlib
 - os 
@@ -64,7 +69,7 @@ Boring_Python\
 | Chapter 8: Input Validation | pyinputplus          |input/output, input validation, keys, keywords| This notebook reviews input validation that checks values entered by a user. The PyInputPlus module methods are used to verify text inputs, set a limit to user inputs, create custom validation logic, etc. |
 | Chapter 9: Reading and Writing Files | pathlib, os, shelve, pprint, myCats|file processing, reading, writing|This notebook examines the basics of file paths and how to use the interactive shell on various operating systems. It goes over how to open, read, and write to files, as well as how to save and format variables with the shelve and pprint modules.|
 
-# Sources
+## Sources
 These notebooks are adapted from the e-book *Automate the Boring Stuff* by Al Sweigart. The original ebook can be found [here](https://automatetheboringstuff.com/). 
 These are adapted to run on HPC systems. They contain fundemental Python knowledge, projects and examples included. Enjoy!
 
