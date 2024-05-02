@@ -21,7 +21,8 @@ For instance, executing this command line will load CPU modules and Anaconda3 wi
 `--env-modules cpu/0.17.3b,anaconda3`
 - GPU:
 This is the following command.
-```galyleo launch --account abc123 --partition shared --cpus 2 --memory 4 --time-limit 00:30:00 --env-modules cpu/0.17.3b,anaconda3/2021.05
+```
+galyleo launch --account abc123 --partition shared --cpus 2 --memory 4 --time-limit 00:30:00 --env-modules cpu/0.17.3b,anaconda3/2021.05
 ```
 ## Install Modules
 To run Boring Python Notebooks you'll need to install 'pyinputplus' and 'pyperclip', as Python3 doesn't include these modules by default.
@@ -29,18 +30,19 @@ To run Boring Python Notebooks you'll need to install 'pyinputplus' and 'pypercl
  * pyperclip
 
 ##Location 
+```
 Boring_Python
-├── [boring_python_chapter_1.ipynb](./boring_python_chapter_1.ipynb)
-├── [boring_python_chapter_2.ipynb](./boring_python_chapter_2.ipynb)
-├── [boring_python_chapter_3.ipynb](./boring_python_chapter_3.ipynb)
-├── [boring_python_chapter_4.ipynb](./boring_python_chapter_4.ipynb) 
-├── [boring_python_chapter_5.ipynb](./boring_python_chapter_5.ipynb)
-├── [boring_python_chapter_6.ipynb](./boring_python_chapter_6.ipynb)
-├── [boring_python_chapter_7.ipynb](./boring_python_chapter_7.ipynb)
-├── [boring_python_chapter_8.ipynb](./boring_python_chapter_8.ipynb)
-├── [boring_python_chapter_9.ipynb](./boring_python_chapter_9.ipynb)
+├── [boring_python_chapter_1.ipynb](./boring_python_chapter_1.ipynb)\
+├── [boring_python_chapter_2.ipynb](./boring_python_chapter_2.ipynb)\
+├── [boring_python_chapter_3.ipynb](./boring_python_chapter_3.ipynb)\
+├── [boring_python_chapter_4.ipynb](./boring_python_chapter_4.ipynb)\
+├── [boring_python_chapter_5.ipynb](./boring_python_chapter_5.ipynb)\
+├── [boring_python_chapter_6.ipynb](./boring_python_chapter_6.ipynb)\
+├── [boring_python_chapter_7.ipynb](./boring_python_chapter_7.ipynb)\
+├── [boring_python_chapter_8.ipynb](./boring_python_chapter_8.ipynb)\
+├── [boring_python_chapter_9.ipynb](./boring_python_chapter_9.ipynb)\
 ├── README.md
-
+```
 ##Table of Contents
 | Chapter   | Package Dependencies  | Keywords                                | Short Description |
 | --------- | --------------------  | --------                                       | ----------------- |
