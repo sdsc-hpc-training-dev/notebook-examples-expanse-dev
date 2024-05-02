@@ -1,6 +1,6 @@
 # SDSC Expanse Notebook: Boring_Python
-This README file provides instructions for Expanse users to run Borying_Python notebooks in the Expanse.\
-  **Listof Content**
+This README file provides instructions for Expanse users to run Borying_Python notebooks in the Expanse.
+## List of Content
 - [Launch Galyleo](##launch-galyleo)
 - [Environment Modules](##environment-modules)
 - [Install Modules](##install-modules)
