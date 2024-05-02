@@ -30,7 +30,7 @@ To run Boring Python Notebooks you'll need to install 'pyinputplus' and 'pypercl
  * pyperclip
 
 ##Location 
-```
+
 Boring_Python
 ├── [boring_python_chapter_1.ipynb](./boring_python_chapter_1.ipynb)\
 ├── [boring_python_chapter_2.ipynb](./boring_python_chapter_2.ipynb)\
@@ -42,7 +42,7 @@ Boring_Python
 ├── [boring_python_chapter_8.ipynb](./boring_python_chapter_8.ipynb)\
 ├── [boring_python_chapter_9.ipynb](./boring_python_chapter_9.ipynb)\
 ├── README.md
-```
+
 ##Table of Contents
 | Chapter   | Package Dependencies  | Keywords                                | Short Description |
 | --------- | --------------------  | --------                                       | ----------------- |
