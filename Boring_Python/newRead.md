@@ -1,5 +1,4 @@
 # SDSC Expanse Notebook: Boring_Python
-
 ## Import Module:
 - pathlib
 - os 
@@ -16,49 +15,33 @@
 For specific information about launching Galyleo, please refer to [this GitHub repository](https://github.com/mkandes/galyleo).
 
 ## Environment Modules:
-<<<<<<< HEAD
-By using <span style="color:gray">--env-modules</span>,we can load any software that is installed in Expanse.
+By utilizing `--env-modules`, we can load any software installed in Expanse. 
+For instance, executing this command line will load CPU modules and Anaconda3 within the Jupyter session.
   - CPU:
-   <span style="color:gray">--env-modules cpu/0.17.3b,anaconda3/2021.05</span>
-Boring Python Notebooks, need to install 'pyinputplus' and 'pyperclip' as Python3 does not include the follwing modules.
-=======
-By using <span style="background-color:LightGray; color:white">Your text here</span>, Boring Python Notebooks, need to install 'pyinputplus' and 'pyperclip' as Python3 does not include the follwing modules.
->>>>>>> 2ef30a9bb90e523fb70465aa33b1f5af7ea17d29
-
-## Install Package: 
+`--env-modules cpu/0.17.3b,anaconda3`
+- GPU:
+This is the following command.
+```galyleo launch --account abc123 --partition shared --cpus 2 --memory 4 --time-limit 00:30:00 --env-modules cpu/0.17.3b,anaconda3/2021.05
+```
+## Install Modules
+To run Boring Python Notebooks you'll need to install 'pyinputplus' and 'pyperclip', as Python3 doesn't include these modules by default.
  * pyinputplus
  * pyperclip
 
-# Launch galyleo 
-  1) Expanse :
-  export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
-  galyleo launch --account abc123 --partition shared --cpus 2 --memory 4 --time-limit 00:30:00 --env-modules cpu/0.17.3b,anaconda3/2021.05
- 
+##Location 
+Boring_Python
+├── [boring_python_chapter_1.ipynb](./boring_python_chapter_1.ipynb)
+├── [boring_python_chapter_2.ipynb](./boring_python_chapter_2.ipynb)
+├── [boring_python_chapter_3.ipynb](./boring_python_chapter_3.ipynb)
+├── [boring_python_chapter_4.ipynb](./boring_python_chapter_4.ipynb) 
+├── [boring_python_chapter_5.ipynb](./boring_python_chapter_5.ipynb)
+├── [boring_python_chapter_6.ipynb](./boring_python_chapter_6.ipynb)
+├── [boring_python_chapter_7.ipynb](./boring_python_chapter_7.ipynb)
+├── [boring_python_chapter_8.ipynb](./boring_python_chapter_8.ipynb)
+├── [boring_python_chapter_9.ipynb](./boring_python_chapter_9.ipynb)
+├── README.md
 
-
-# Notebook Chapters
-* boring_python_chapter_1.ipynb
-* boring_python_chapter_2.ipynb
-* boring_python_chapter_3.ipynb
-* boring_python_chapter_4.ipynb
-* boring_python_chapter_5.ipynb
-* boring_python_chapter_6.ipynb
-* boring_python_chapter_7.ipynb
-* boring_python_chapter_8.ipynb
-* boring_python_chapter_9.ipynb
-
-# Location:
-* [boring_python_chapter_1.ipynb](./boring_python_chapter_1.ipynb)
-* [boring_python_chapter_2.ipynb](./boring_python_chapter_2.ipynb)
-* [boring_python_chapter_3.ipynb](./boring_python_chapter_3.ipynb)
-* [boring_python_chapter_4.ipynb](./boring_python_chapter_4.ipynb)
-* [boring_python_chapter_5.ipynb](./boring_python_chapter_5.ipynb)
-* [boring_python_chapter_6.ipynb](./boring_python_chapter_6.ipynb)
-* [boring_python_chapter_7.ipynb](./boring_python_chapter_7.ipynb)
-* [boring_python_chapter_8.ipynb](./boring_python_chapter_8.ipynb)
-* [boring_python_chapter_9.ipynb](./boring_python_chapter_9.ipynb)
-
-# Table of Contents
+##Table of Contents
 | Chapter   | Package Dependencies  | Keywords                                | Short Description |
 | --------- | --------------------  | --------                                       | ----------------- |
 | Chapter 1: Python Basics   | N/A                   | basic, data types, math, operator              | This notebook begins with running expressions into the interactive shell, python math operations, and variable types. It also includes basic string functions and concatenation. |
