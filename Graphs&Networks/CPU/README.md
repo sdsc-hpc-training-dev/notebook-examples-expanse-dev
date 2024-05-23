@@ -35,8 +35,7 @@ To run NetworkX notebook, we need to install additional package.
 ## Location 
 
 Graphs&Networks\
-├──CPU\
-    ├──[NetworkX.ipynb](./networkx.ipynb)\
+    ├──[NetworkX.ipynb](./NetworkX.ipynb)\
     ├── README.md
 
 ## Sources
