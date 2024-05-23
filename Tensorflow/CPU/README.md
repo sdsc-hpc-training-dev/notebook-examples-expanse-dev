@@ -43,6 +43,6 @@ We do not need to install any additional packages.
 ## Location 
 
 Tensorflow\
-├── [Image Classification.ipynb](./image_classification.ipynb)\
-├── [SimpleTraining.ipynb](./simpletraining.ipynb)\
+├── [Image Classification.ipynb](./Image_Classification.ipynb)\
+├── [SimpleTraining.ipynb](./SimpleTraining.ipynb)\
 ├── README.md
