@@ -44,5 +44,5 @@ We need to install additional packages to run the notebook.
 ## Location 
 
 ML_Tensorflow_CPU\
-├── [LabMNIST_Final.ipynb]](./labmnist_final.ipynb)\
+├── [LabMNIST_Final.ipynb](./LabMNIST_Final.ipynb)\
 ├── README.md
