@@ -36,7 +36,7 @@ To run PandasCSV notebook, we do not need to install any additional packages.
 ## Location 
 
 Python_Data_Analysis_Library\
-├── [PandasCSV.ipynb](./pandascsv.ipynb)\
+├── [PandasCSV.ipynb](./PandasCsv.ipynb)\
 ├── README.md
 
 
