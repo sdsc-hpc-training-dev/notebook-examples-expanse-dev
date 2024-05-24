@@ -7,8 +7,6 @@ A brief introduction to regression using scikit-learn. Covers basic linear regre
 - [Environment Modules](#environment-modules)
 - [Install Modules](#install-modules)
 - [Location](#location)
-- [Table of Contents](#table-of-contents)
-- [Sources](#sources)
 
 ## Import Module:
 - sklearn
