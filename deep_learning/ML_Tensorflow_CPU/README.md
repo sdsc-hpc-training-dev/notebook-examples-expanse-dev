@@ -2,11 +2,11 @@
 This README file provides instructions for Expanse users on how to run TensorFlow on Expanse, both on CPU and GPU.\
 
   **Listof Content**
-- [Import Module](##import_module)
-- [Launch Galyleo](##launch-galyleo)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
+- [Import Module](#import%20module)
+- [Launch Galyleo](#launch-galyleo)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
 
 ## Import Module:
 - numpy
