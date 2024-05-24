@@ -4,11 +4,11 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 
 This chapter will show you how to implement Web Scraping function in a Jupyter Notebook. Enjoy\
   **Listof Content**
-- [Launch Galyleo](##launch-galyleo)
-- [Import Module](##import_module)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
+- [Launch Galyleo](#launch-galyleo)
+- [Import Module](#import_module)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
 
 ## Import Module:
 - requests
