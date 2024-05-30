@@ -1,12 +1,12 @@
 # SDSC Expanse Notebook: Graphs&Networks
 This README file provides instructions for Expanse users on how to run notebooks related to building, visualizing, and analyzing graphs and networks.\
   **Listof Content**
-- [Import Module](##import_module)
-- [Launch Galyleo](##launch-galyleo)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
-- [Sources](##sources)
+- [Import Module](#import-module)
+- [Launch Galyleo](#launch-galyleo)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
+- [Sources](#sources)
 
 ## Import Module:
 - matplotlib
