@@ -43,6 +43,6 @@ To run  notebooks Web_Scraping and Recommendation_System notebooks, need to inst
 ## Location 
 
 Web_Scraping\
-├── [Web_Scraping_and_Recommendation_System.ipynb](./web_scraping_and_recommendation_system.ipynb)\
+├── [Web_Scraping_and_Recommendation_System.ipynb](./Web_Scraping_and_Recommendation_System.ipynb)\
 ├── README.md
 
