@@ -39,6 +39,6 @@ To run Introduction_to_Clustering notebook, we do not need to install additional
 ## Location 
 
 Clustering_Visulizations\
-├── [Introduction_to_Clustering.ipynb](./introduction_to_clustering.ipynb)\
+├── [Introduction_to_Clustering.ipynb](.Introduction_to_Clustering.ipynb)\
 ├── README.md
 
