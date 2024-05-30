@@ -2,11 +2,11 @@
 This README file provides instructions for Expanse users to run DecisionTrees notebooks in the Expanse.
 Introduces the scikit-learn machine learning package, using a classic decision tree example.\
   **Listof Content**
-- [Import Module](##import_module)
-- [Launch Galyleo](##launch-galyleo)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
+- [Import Module](#import-module)
+- [Launch Galyleo](#launch-galyleo)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
 
 ## Import Module:
 - sklearn
@@ -37,7 +37,7 @@ To run DecisionTrees notebooks, we do not need to install any additional package
 ## Location 
 
 Decision_Trees\
-├── [Decision trees.ipynb.ipynb](./decision_trees.ipynb)\
+├── [Decision trees.ipynb.ipynb](./Decision_trees.ipynb)\
 ├── README.md
 
 
