@@ -2,11 +2,11 @@
 This README file provides instructions for Expanse users to run Parallel_Programming notebooks in the Expanse.
 Introduces the Dask module with a simple example and illustrates the Dask graph.\
   **Listof Content**
-- [Import Module](##import_module)
-- [Launch Galyleo](##launch-galyleo)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
+- [Import Module](#import-module)
+- [Launch Galyleo](#launch-galyleo)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
 
 ## Import Module:
 - dask
@@ -33,6 +33,7 @@ galyleo launch --account abc123 —partition gpu-shared --cpus 10 --memory 92 --
 ```
 ## Install Modules
 To run Parallel_Programming notebooks, we do not need to install any additional packages.
+
 ## Location 
 Parallel_Programming\
 ├── [dask_graphs.ipynb](./dask_graphs.ipynb)\
