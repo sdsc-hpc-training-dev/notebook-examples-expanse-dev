@@ -1,13 +1,13 @@
 # SDSC Expanse Notebook:Boring_Python
 This README file provides instructions for Expanse users to run Boring Python notebooks on Expanse.\
   **Listof Content**
-- [Import Module](##import_module)
-- [Launch Galyleo](##launch-galyleo)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
-- [Table of Contents](##table_of_contents)
-- [Sources](##sources)
+- [Import Module](#import-module)
+- [Launch Galyleo](#launch-galyleo)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
+- [Table of Contents](#table_of_contents)
+- [Sources](#sources)
 
 ## Import Module:
 - Path
