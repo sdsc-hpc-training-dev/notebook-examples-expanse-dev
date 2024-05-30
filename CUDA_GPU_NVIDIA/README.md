@@ -1,13 +1,13 @@
 # SDSC Expanse Notebook: CUDA_GPU_NVIDIA
 This guide provides instructions for Expanse users to run CUDA notebooks on GPU nodes. Code authored by Abe Stern, NVIDIA.\
   **Listof Content**
-- [Launch Galyleo](##launch-galyleo)
-- [Import Module](##import_module)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
-- [Short Description](##short_description)
-- [Sources](##sources)
+- [Launch Galyleo](#launch-galyleo)
+- [Import Module](#import-module)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
+- [Short Description](#short-description)
+- [Sources](#sources)
 
 ## Import Module:
 - numba
