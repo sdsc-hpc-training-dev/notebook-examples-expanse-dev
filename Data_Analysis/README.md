@@ -42,7 +42,7 @@ To run data_analysis_pandas notebook, we do not need to install additional packa
 ## Location 
 
 Data_Analysis\
-├──[data_analysis_pandas.ipynb](./data_analysis_pandas.ipynb)
+├──[data_analysis_pandas.ipynb](./data_analysis_pandas.ipynb)\
 ├── README.md
 
 ## Sources
