@@ -37,7 +37,7 @@ To run DecisionTrees notebooks, we do not need to install any additional package
 ## Location 
 
 Decision_Trees\
-├── [Decision trees.ipynb.ipynb](./Decision_trees.ipynb)\
+├── [Decision trees.ipynb.ipynb](./Decision%20trees.ipynb)\
 ├── README.md
 
 
