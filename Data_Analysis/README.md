@@ -8,12 +8,12 @@ Keep in mind the added files:
 • olympics.csv  
 These contain the necessary data for the notebook to run.\
   **Listof Content**
-- [Import Module](##import_module)
-- [Launch Galyleo](##launch-galyleo)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
-- [Sources](##sources)
+- [Import Module](#import-module)
+- [Launch Galyleo](#launch-galyleo)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
+- [Sources](#sources)
 
 ## Import Module:
 - numpy
