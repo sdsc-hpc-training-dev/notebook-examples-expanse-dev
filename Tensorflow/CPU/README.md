@@ -6,11 +6,11 @@ TensorFlow is a free and open-source software library for machine learning. It c
 This chapter will show you how to implement an image classifaction NN as well as how to train an NN. Enjoy!\
 
   **Listof Content**
-- [Import Module](##import_module)
-- [Launch Galyleo](##launch-galyleo)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
+- [Import Module](#import-module)
+- [Launch Galyleo](#launch-galyleo)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
 
 ## Import Module:
 - matplotlib
