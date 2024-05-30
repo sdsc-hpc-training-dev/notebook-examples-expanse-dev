@@ -4,12 +4,12 @@ These notebooks contain essential knowledge for developing your own Jupyter Note
 • LaTeX is a useful tool for math formatting, supported with the notebooks.
 • Markdown allows you to add formatted text in the notebooks.\
   **Listof Content**
-- [Import Module](##import_module)
-- [Launch Galyleo](##launch-galyleo)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
-- [Sources](##sources)
+- [Import Module](#import-module)
+- [Launch Galyleo](#launch-galyleo)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
+- [Sources](#sources)
 
 ## Import Module:
 To run the notebooks, no additional modules need to be loaded.
@@ -37,8 +37,8 @@ To run latex and markdown notebooks, we do not need to install additional packag
 ## Location 
 
 Notebook_Dev_Basics\
-├──[notebook_dev_basics_latex_math.ipynb](./notebook_dev_basics_latex_math.ipynb)
-├──[notebook_dev_basics_markdown.ipynb](.notebook_dev_basics_markdown.ipynb)
+├──[notebook_dev_basics_latex_math.ipynb](./notebook_dev_basics_latex_math.ipynb)\
+├──[notebook_dev_basics_markdown.ipynb](.notebook_dev_basics_markdown.ipynb)\
 ├── README.md
 
 ## Sources
