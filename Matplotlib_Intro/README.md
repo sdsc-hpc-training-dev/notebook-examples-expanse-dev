@@ -37,7 +37,7 @@ To run Matplotlib notebook, we do not need to install additional packages.
 ## Location 
 
 Matplotlib_Intro\
-├──[Matplotlib_Intro.ipynb](./Matplotlib_Intro.ipynb) 
+├──[Matplotlib_Intro.ipynb](./Matplotlib_Intro.ipynb)\
 ├── README.md
 
 ## Sources
