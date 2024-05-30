@@ -4,12 +4,12 @@ This README file provides instructions for Expanse users on running Matplotlib P
 This notebook dives into the basics of the Matplotlib Python Package, which is a data visualization and graphical plotting library. 
 Topics including basic syntax, scatter plots, line plots, bar charts, and histograms are discussed in the notebook.\
   **Listof Content**
-- [Import Module](##import_module)
-- [Launch Galyleo](##launch-galyleo)
-- [Environment Modules](##environment-modules)
-- [Install Modules](##install-modules)
-- [Location](##location)
-- [Sources](##sources)
+- [Import Module](#import-module)
+- [Launch Galyleo](#launch-galyleo)
+- [Environment Modules](#environment-modules)
+- [Install Modules](#install-modules)
+- [Location](#location)
+- [Sources](#sources)
 
 ## Import Module:
 - matplotlib
