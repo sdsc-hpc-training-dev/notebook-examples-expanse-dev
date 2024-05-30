@@ -42,6 +42,6 @@ To run pillow notebook, we do not need to install additional packages.
 ## Location 
 
 Image_Processing\
-├──[pillow.ipynb](./pillow.ipynb)
+├──[pillow.ipynb](./pillow.ipynb)\
 ├── README.md
 
