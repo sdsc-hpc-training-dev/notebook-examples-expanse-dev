@@ -6,14 +6,25 @@ This repository contains notebooks that are part of the production notebooks tha
 * Last update: 4/20/2024.
 
 ## Notebook Repository Table
-
-| Repository           | Status   | Short Description                                                                 | Issues and Changes                                            |
-|----------------------|----------|-----------------------------------------------------------------------------------|---------------------------------------------------------------|
-
-| PythonBasics         | Delete   | No longer needed.                                                                 | Marked for deletion.                                           |
-| dask_graphs.ipynb  | Active  | Repository contains Python series examples. If you want to run the notebooks, follow this repo: [PythonSeries](https://github.com/sinkovit/PythonSeries). | * |
-| PyhonBas             | Inactive | Description of Repo2                                                              | Issue2, Change2                                               |
-| Repo3                | Active   | Description of Repo3                                                              | Issue3, Change3                                               |
+| Name                              | File Type         | Status | Issue                              |
+|----------------------------------- |-------------------|--------|------------------------------------|
+| Introduction_to_Clustering.ipynb   | Jupyter Notebook  | W      |                                    |
+| matplotlib_intro.ipynb             | Jupyter Notebook  | W      |                                    |
+| numpy_intro.ipynb                  | Jupyter Notebook  | W      |                                    |
+| NetworkX.ipynb                     | Jupyter Notebook  | W      |                                    |
+| hello_world_cpu.ipynb              | Jupyter Notebook  | W      |                                    |
+| Image Classification.ipynb         | Jupyter Notebook  | W      |                                    |
+| multithreaded_processing.ipynb     | Jupyter Notebook  | W      |                                    |
+| dask_graphs.ipynb                  | Jupyter Notebook  | W      |                                    |
+| Regression.ipynb                   | Jupyter Notebook  | W      |                                    |
+| SimpleTraining.ipynb               | Jupyter Notebook  | W      |                                    |
+| Introduction_to_Clustering.ipynb   | Jupyter Notebook  | W      |                                    |
+| Decision trees.ipynb               | Jupyter Notebook  | W      |                                    |
+| Data_Analysis                      | File Type         | W      | Includes import files to run       |
+| deep_learning                      | File Type         | W      | Includes import files to run       |
+| Image_Processing                   | File Type         | W      | Includes import files to run       |
+| Python_Data_Analysis_Library       | File Type         | W      | Includes import files to run       |
+| GPU_Notebooks                      | File Type         | W- GPU | Collection of Notebooks that runs only on GPU |
 
 # Additional Notebooks for Referece
 There were notebooks that were in the Expanse Github Repostiory but has been deleted cureny.But  you can take a look at the notebooks
