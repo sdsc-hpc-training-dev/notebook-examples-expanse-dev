@@ -4,7 +4,7 @@
 #Ignoring Specific Directories
 __pycache__/
 .ipynb_checkpoints/
-
+__pycache__/
 #Ignoring File Extension
 *.DS_Store
 
