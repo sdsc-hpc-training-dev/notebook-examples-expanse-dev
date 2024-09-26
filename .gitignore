@@ -1,4 +1,16 @@
-/_pycache_
-.DS_Store
-/.ipynb_checkpoints
+#Ignoring Specific Files
+#.DS_Store
+
+#Ignoring Specific Directories
+__pycache__/
+.ipynb_checkpoints/
+
+#Ignoring File Extension
+*.DS_Store
+
+~                                                                               
+~        
+
+
+
 
